@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/lab201-site/static/css/main.d928a9ed.css",
+    "main.js": "/lab201-site/static/js/main.8e621667.js",
+    "static/js/787.0c3f432a.chunk.js": "/lab201-site/static/js/787.0c3f432a.chunk.js",
+    "static/media/vinyle.png": "/lab201-site/static/media/vinyle.aa3bf18567e67e9e51bd.png",
+    "static/media/cd.png": "/lab201-site/static/media/cd.4fea71e50afeb7e4bf32.png",
+    "static/media/clip.mp4": "/lab201-site/static/media/clip.725948f5508b17a9ccbc.mp4",
+    "static/media/totebag.png": "/lab201-site/static/media/totebag.b2f5513188a38e0ab955.png",
+    "static/media/bougie.png": "/lab201-site/static/media/bougie.8db00cbb96ddf6c9432d.png",
+    "static/media/sweat.png": "/lab201-site/static/media/sweat.91a8b258f34e679edae1.png",
+    "static/media/cover.png": "/lab201-site/static/media/cover.544f42bca76db870e5a2.png",
+    "static/media/Arrière plan.jpg": "/lab201-site/static/media/Arrière plan.2d3333d89976e5dd7361.jpg",
+    "static/media/Tournesol.png": "/lab201-site/static/media/Tournesol.249ee17d9002154416a1.png",
+    "static/media/TournesolH.png": "/lab201-site/static/media/TournesolH.c1fe64411cc903d620d9.png",
+    "static/media/image2.jpg": "/lab201-site/static/media/image2.a14300ee97286ccf3091.jpg",
+    "static/media/logo.png": "/lab201-site/static/media/logo.ba435974f4dc41698cf2.png",
+    "static/media/Papillons.png": "/lab201-site/static/media/Papillons.e9bfa6d9441eae989042.png",
+    "static/media/image3.jpg": "/lab201-site/static/media/image3.1d7b1129e30f1b290dcb.jpg",
+    "static/media/bebas-neue-pro-bold-webfont.eot": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.927e4e76bcb9b9b9c0f5.eot",
+    "static/media/bebas-neue-pro-bold-webfont.ttf": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.7d30323e9a85a1dfce56.ttf",
+    "static/media/bebas-neue-pro-bold-webfont.woff": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.85c6ccda793b3c7fe73c.woff",
+    "static/media/bebas-neue-pro-bold-webfont.woff2": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.e684b221b36a917c2705.woff2",
+    "static/media/image1.jpg": "/lab201-site/static/media/image1.fc4eb5fc68bc92995fb6.jpg",
+    "index.html": "/lab201-site/index.html",
+    "main.d928a9ed.css.map": "/lab201-site/static/css/main.d928a9ed.css.map",
+    "main.8e621667.js.map": "/lab201-site/static/js/main.8e621667.js.map",
+    "787.0c3f432a.chunk.js.map": "/lab201-site/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d928a9ed.css",
+    "static/js/main.8e621667.js"
+  ]
+}
