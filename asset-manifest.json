@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/lab201-site/static/css/main.d928a9ed.css",
-    "main.js": "/lab201-site/static/js/main.0856a196.js",
+    "main.css": "/lab201-site/static/css/main.f0c8a82b.css",
+    "main.js": "/lab201-site/static/js/main.c3d1563d.js",
     "static/js/787.0c3f432a.chunk.js": "/lab201-site/static/js/787.0c3f432a.chunk.js",
     "static/media/vinyle.png": "/lab201-site/static/media/vinyle.aa3bf18567e67e9e51bd.png",
     "static/media/cd.png": "/lab201-site/static/media/cd.4fea71e50afeb7e4bf32.png",
-    "static/media/clip.mp4": "/lab201-site/static/media/clip.725948f5508b17a9ccbc.mp4",
     "static/media/totebag.png": "/lab201-site/static/media/totebag.b2f5513188a38e0ab955.png",
     "static/media/bougie.png": "/lab201-site/static/media/bougie.8db00cbb96ddf6c9432d.png",
     "static/media/sweat.png": "/lab201-site/static/media/sweat.91a8b258f34e679edae1.png",
@@ -23,12 +22,12 @@
     "static/media/bebas-neue-pro-bold-webfont.woff2": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.e684b221b36a917c2705.woff2",
     "static/media/image1.jpg": "/lab201-site/static/media/image1.fc4eb5fc68bc92995fb6.jpg",
     "index.html": "/lab201-site/index.html",
-    "main.d928a9ed.css.map": "/lab201-site/static/css/main.d928a9ed.css.map",
-    "main.0856a196.js.map": "/lab201-site/static/js/main.0856a196.js.map",
+    "main.f0c8a82b.css.map": "/lab201-site/static/css/main.f0c8a82b.css.map",
+    "main.c3d1563d.js.map": "/lab201-site/static/js/main.c3d1563d.js.map",
     "787.0c3f432a.chunk.js.map": "/lab201-site/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d928a9ed.css",
-    "static/js/main.0856a196.js"
+    "static/css/main.f0c8a82b.css",
+    "static/js/main.c3d1563d.js"
   ]
 }
