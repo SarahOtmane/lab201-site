@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lab201-site/static/css/main.946850e1.css",
-    "main.js": "/lab201-site/static/js/main.31008f62.js",
+    "main.css": "/lab201-site/static/css/main.e1dde333.css",
+    "main.js": "/lab201-site/static/js/main.bd327878.js",
     "static/js/787.0c3f432a.chunk.js": "/lab201-site/static/js/787.0c3f432a.chunk.js",
     "static/media/vinyle.png": "/lab201-site/static/media/vinyle.aa3bf18567e67e9e51bd.png",
     "static/media/cd.png": "/lab201-site/static/media/cd.4fea71e50afeb7e4bf32.png",
@@ -9,8 +9,8 @@
     "static/media/bougie.png": "/lab201-site/static/media/bougie.8db00cbb96ddf6c9432d.png",
     "static/media/sweat.png": "/lab201-site/static/media/sweat.91a8b258f34e679edae1.png",
     "static/media/cover.png": "/lab201-site/static/media/cover.544f42bca76db870e5a2.png",
-    "static/media/Arrière plan.jpg": "/lab201-site/static/media/Arrière plan.2d3333d89976e5dd7361.jpg",
     "static/media/Tournesol.png": "/lab201-site/static/media/Tournesol.249ee17d9002154416a1.png",
+    "static/media/Arrière plan2.jpg": "/lab201-site/static/media/Arrière plan2.7475c380465121c4024d.jpg",
     "static/media/TournesolH.png": "/lab201-site/static/media/TournesolH.c1fe64411cc903d620d9.png",
     "static/media/image2.jpg": "/lab201-site/static/media/image2.a14300ee97286ccf3091.jpg",
     "static/media/logo.png": "/lab201-site/static/media/logo.ba435974f4dc41698cf2.png",
@@ -22,12 +22,12 @@
     "static/media/bebas-neue-pro-bold-webfont.woff2": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.e684b221b36a917c2705.woff2",
     "static/media/image1.jpg": "/lab201-site/static/media/image1.fc4eb5fc68bc92995fb6.jpg",
     "index.html": "/lab201-site/index.html",
-    "main.946850e1.css.map": "/lab201-site/static/css/main.946850e1.css.map",
-    "main.31008f62.js.map": "/lab201-site/static/js/main.31008f62.js.map",
+    "main.e1dde333.css.map": "/lab201-site/static/css/main.e1dde333.css.map",
+    "main.bd327878.js.map": "/lab201-site/static/js/main.bd327878.js.map",
     "787.0c3f432a.chunk.js.map": "/lab201-site/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.946850e1.css",
-    "static/js/main.31008f62.js"
+    "static/css/main.e1dde333.css",
+    "static/js/main.bd327878.js"
   ]
 }
