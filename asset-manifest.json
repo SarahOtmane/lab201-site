@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lab201-site/static/css/main.2a831a5c.css",
-    "main.js": "/lab201-site/static/js/main.5e154c86.js",
+    "main.css": "/lab201-site/static/css/main.4bca8ec3.css",
+    "main.js": "/lab201-site/static/js/main.e4d046f8.js",
     "static/js/787.0c3f432a.chunk.js": "/lab201-site/static/js/787.0c3f432a.chunk.js",
     "static/media/vinyle.png": "/lab201-site/static/media/vinyle.aa3bf18567e67e9e51bd.png",
     "static/media/cd.png": "/lab201-site/static/media/cd.4fea71e50afeb7e4bf32.png",
@@ -25,12 +25,12 @@
     "static/media/bebas-neue-pro-bold-webfont.woff2": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.e684b221b36a917c2705.woff2",
     "static/media/image1.jpg": "/lab201-site/static/media/image1.fc4eb5fc68bc92995fb6.jpg",
     "index.html": "/lab201-site/index.html",
-    "main.2a831a5c.css.map": "/lab201-site/static/css/main.2a831a5c.css.map",
-    "main.5e154c86.js.map": "/lab201-site/static/js/main.5e154c86.js.map",
+    "main.4bca8ec3.css.map": "/lab201-site/static/css/main.4bca8ec3.css.map",
+    "main.e4d046f8.js.map": "/lab201-site/static/js/main.e4d046f8.js.map",
     "787.0c3f432a.chunk.js.map": "/lab201-site/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a831a5c.css",
-    "static/js/main.5e154c86.js"
+    "static/css/main.4bca8ec3.css",
+    "static/js/main.e4d046f8.js"
   ]
 }
