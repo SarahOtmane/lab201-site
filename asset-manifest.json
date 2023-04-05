@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lab201-site/static/css/main.ae150045.css",
-    "main.js": "/lab201-site/static/js/main.9005193b.js",
+    "main.css": "/lab201-site/static/css/main.c9d403d0.css",
+    "main.js": "/lab201-site/static/js/main.d27793db.js",
     "static/js/787.0c3f432a.chunk.js": "/lab201-site/static/js/787.0c3f432a.chunk.js",
     "static/media/vinyle.png": "/lab201-site/static/media/vinyle.aa3bf18567e67e9e51bd.png",
     "static/media/cd.png": "/lab201-site/static/media/cd.4fea71e50afeb7e4bf32.png",
@@ -15,26 +15,29 @@
     "static/media/Tournesol.png": "/lab201-site/static/media/Tournesol.249ee17d9002154416a1.png",
     "static/media/Arrière plan2.jpg": "/lab201-site/static/media/Arrière plan2.7475c380465121c4024d.jpg",
     "static/media/TournesolH.png": "/lab201-site/static/media/TournesolH.c1fe64411cc903d620d9.png",
-    "static/media/image5.webp": "/lab201-site/static/media/image5.48abee37c1c191eaa508.webp",
     "static/media/image2.jpg": "/lab201-site/static/media/image2.a14300ee97286ccf3091.jpg",
     "static/media/image7.jpg": "/lab201-site/static/media/image7.a0baf0d6cf999c7acbc2.jpg",
     "static/media/logo.png": "/lab201-site/static/media/logo.ba435974f4dc41698cf2.png",
     "static/media/Papillons.png": "/lab201-site/static/media/Papillons.e9bfa6d9441eae989042.png",
     "static/media/image3.jpg": "/lab201-site/static/media/image3.1d7b1129e30f1b290dcb.jpg",
+    "static/media/image5.jpg": "/lab201-site/static/media/image5.39762abc4cbe570f06fc.jpg",
     "static/media/bebas-neue-pro-bold-webfont.eot": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.927e4e76bcb9b9b9c0f5.eot",
     "static/media/bebas-neue-pro-bold-webfont.ttf": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.7d30323e9a85a1dfce56.ttf",
     "static/media/image4.jpg": "/lab201-site/static/media/image4.848e33b26e21f4b36ac5.jpg",
+    "static/media/nimbus-sans-d-ot-light_32752-webfont.woff": "/lab201-site/static/media/nimbus-sans-d-ot-light_32752-webfont.e4213883dcdd4c93a219.woff",
     "static/media/bebas-neue-pro-bold-webfont.woff": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.85c6ccda793b3c7fe73c.woff",
+    "static/media/nimbus-sans-d-ot-light_32752-webfont.eot": "/lab201-site/static/media/nimbus-sans-d-ot-light_32752-webfont.f39e1bf001a360dc1954.eot",
     "static/media/image6.jpg": "/lab201-site/static/media/image6.03b215a916742482e55f.jpg",
+    "static/media/nimbus-sans-d-ot-light_32752-webfont.woff2": "/lab201-site/static/media/nimbus-sans-d-ot-light_32752-webfont.bbc22dc5dd25ed912a92.woff2",
     "static/media/bebas-neue-pro-bold-webfont.woff2": "/lab201-site/static/media/bebas-neue-pro-bold-webfont.e684b221b36a917c2705.woff2",
     "static/media/image1.jpg": "/lab201-site/static/media/image1.fc4eb5fc68bc92995fb6.jpg",
     "index.html": "/lab201-site/index.html",
-    "main.ae150045.css.map": "/lab201-site/static/css/main.ae150045.css.map",
-    "main.9005193b.js.map": "/lab201-site/static/js/main.9005193b.js.map",
+    "main.c9d403d0.css.map": "/lab201-site/static/css/main.c9d403d0.css.map",
+    "main.d27793db.js.map": "/lab201-site/static/js/main.d27793db.js.map",
     "787.0c3f432a.chunk.js.map": "/lab201-site/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae150045.css",
-    "static/js/main.9005193b.js"
+    "static/css/main.c9d403d0.css",
+    "static/js/main.d27793db.js"
   ]
 }
